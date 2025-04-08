@@ -1,3 +1,3 @@
 let b = 12;
 let a = 20;
-let result = a*b;
+let result = b-a;
