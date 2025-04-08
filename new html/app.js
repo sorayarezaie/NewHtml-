@@ -6,4 +6,9 @@ let s = 344;
 let r = 'soraya';
 let numberOne = true;
 
-let persone = {'name': 'Soraya' , 'fathername' : 'asadullah', 'age': 20}
+let persone = {'name': 'Soraya' , 'fathername' : 'asadullah', 'age': 20};
+// dot notation 
+//persone.name;
+
+//bracket notation
+//persone['name']
