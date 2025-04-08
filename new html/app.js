@@ -5,3 +5,5 @@ let result = b-a;
 let s = 344;
 let r = 'soraya';
 let numberOne = true;
+
+let persone = {'name': 'Soraya' , 'fathername' : 'asadullah', 'age': 20}
