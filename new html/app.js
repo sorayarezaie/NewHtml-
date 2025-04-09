@@ -12,3 +12,5 @@ let persone = {'name': 'Soraya' , 'fathername' : 'asadullah', 'age': 20};
 
 //bracket notation
 //persone['name']
+
+let @per = 43;
