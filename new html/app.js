@@ -13,4 +13,6 @@ let persone = {'name': 'Soraya' , 'fathername' : 'asadullah', 'age': 20};
 //bracket notation
 //persone['name']
 
-let firstPro = 43;
+let firstPro = 300;
+let secondPro = 280;
+let sam = firstPro + secondPro;
