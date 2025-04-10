@@ -18,4 +18,4 @@ let secondPro = 280;
 let sam = firstPro + secondPro;
 
 
-let picture = ['red', 2600]
+let picture = ['red', 2600];
