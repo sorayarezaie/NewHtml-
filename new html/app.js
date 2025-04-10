@@ -16,3 +16,6 @@ let persone = {'name': 'Soraya' , 'fathername' : 'asadullah', 'age': 20};
 let firstPro = 300;
 let secondPro = 280;
 let sam = firstPro + secondPro;
+
+
+let picture = ['red', 2600]
