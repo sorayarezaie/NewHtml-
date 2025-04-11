@@ -18,4 +18,4 @@ let secondPro = 280;
 let sam = firstPro + secondPro;
 
 
-let computer = ['dill', 26000, 'black'];
+let computer = ['dill', 26000, 'black', '64GB'];
