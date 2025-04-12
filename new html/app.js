@@ -19,3 +19,4 @@ let sam = firstPro + secondPro;
 
 
 let computer = ['dill', 26000, 'black', '64GB'];
+let mCompany = {'name': 'mycrosoft', }
