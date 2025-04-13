@@ -27,6 +27,7 @@
 //greeting();
 
 
-function hello(){
-    console.log("سلام علی صبح بخیر");
+function hello(name){
+    console.log( " سلام " + name + " صبح بخیر " );
 }
+hello("رضا")
