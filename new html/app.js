@@ -20,3 +20,7 @@ let sam = firstPro + secondPro;
 
 let computer = ['dill', 26000, 'black', '64GB'];
 let mCompany = {'name': 'mycrosoft', 'products': 'phone' , 'products': 'laptab'};
+
+function greeting (){
+    console.log("hi dear Ashraf Omid");
+}
