@@ -34,4 +34,4 @@
 
 let numberOne = 2;
 let numberTwo = "2";
-console.log(numberOne != numberTwo);
+console.log(numberOne == numberTwo);
