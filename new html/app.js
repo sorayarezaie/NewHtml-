@@ -27,7 +27,11 @@
 //greeting();
 
 
-function hello(name){
-    console.log( " سلام " + name + " صبح بخیر " );
-}
-hello("رضا")
+//function hello(name){
+//    console.log( " سلام " + name + " صبح بخیر " );
+//}
+//hello("رضا");
+
+let numberOne = 2;
+let numberTwo = "2";
+console.log(numberOne != numberTwo);
