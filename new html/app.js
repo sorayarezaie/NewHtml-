@@ -32,6 +32,12 @@
 //}
 //hello("رضا");
 
-let numberOne = 2;
-let numberTwo = "2";
-console.log(numberOne == numberTwo);
+//let numberOne = 2;
+//let numberTwo = "2";
+//console.log(numberOne == numberTwo);
+
+
+let number = 23;
+if (number%2 == 0){
+  console.log("this is an even number");
+}
