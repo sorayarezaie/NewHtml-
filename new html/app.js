@@ -37,7 +37,7 @@
 //console.log(numberOne == numberTwo);
 
 
-let number = 23;
+let number = 20001;
 if (number%2 == 0){
   console.log("this is an even number");
 }
