@@ -50,3 +50,6 @@ let student = Soraya;
 if (student == Soraya){
   console.log("You are the addmain ");
 }
+else {
+  console.log("You are not addmain");
+}
