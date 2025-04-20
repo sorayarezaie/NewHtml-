@@ -54,17 +54,5 @@
   //console.log("You are not addmain");
 //}
 
-
-let numberOne = 6;
-if (numberOne == 2){
-  console.log("2");
-}
-else if = (numberOne<2){
-  console.log("less than 2");
-}
-else if (numberOne>2){
-  console.log("")
-}
-
-
+let product = 2;
 let result = product < 3 ?"this is not for usege": product < 5 ? "this is for usege": "this is well"
