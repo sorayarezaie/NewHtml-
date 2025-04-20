@@ -46,10 +46,16 @@
 //}
 
 
-let student = Soraya;
-if (student == Soraya){
-  console.log("You are the addmain ");
-}
-else {
-  console.log("You are not addmain");
+//let student = Soraya;
+//if (student == Soraya){
+  //console.log("You are the addmain ");
+//}
+//else {
+  //console.log("You are not addmain");
+//}
+
+
+let numberOne = 6;
+if (numberOne == 2){
+  console.log("2");
 }
