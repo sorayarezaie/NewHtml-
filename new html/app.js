@@ -64,3 +64,6 @@ if (school == board){
 else if (school == marker){
   console.log("this is a marker");
 }
+else {
+  console.log("I dont you");
+}
