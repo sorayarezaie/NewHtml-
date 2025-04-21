@@ -54,5 +54,6 @@
   //console.log("You are not addmain");
 //}
 
-let product = 1000;
-let result = product < 3 ?"this is not for usege": product < 5 ? "this is for usege": "this is well"
+//let product = 1000;
+//let result = product < 3 ?"this is not for usege": product < 5 ? "this is for usege": "this is well"
+
