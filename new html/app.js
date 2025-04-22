@@ -67,3 +67,4 @@ else if (school == marker){
 else {
   console.log("I dont you");
 }
+
