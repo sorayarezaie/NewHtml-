@@ -57,14 +57,14 @@
 //let product = 1000;
 //let result = product < 3 ?"this is not for usege": product < 5 ? "this is for usege": "this is well"
 
-let school = board ;
-if (school == board){
-  console.log("this is a board");
-}
-else if (school == marker){
-  console.log("this is a marker");
-}
-else {
-  console.log("I dont you");
-}
+//let school = board ;
+//if (school == board){
+  //console.log("this is a board");
+//}
+//else if (school == marker){
+ // //console.log("this is a marker");
+//}
+//else {
+  //console.log("I dont you");
+//}
 
