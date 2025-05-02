@@ -70,6 +70,7 @@
 
 // function add
 const add = function add(){
-  console.log(2+9);
+  console.log();
 }
 add();
+// hoisting function decalaration
