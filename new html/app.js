@@ -68,6 +68,8 @@
   //console.log("I dont you");
 //}
 
-//let a = 32;
-//let b = 43;
-//console.log(a+b);
+// function add
+const add = function add(){
+  console.log(2+9);
+}
+add();
