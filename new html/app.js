@@ -69,8 +69,6 @@
 //}
 
 // function add
-const add = function add(){
-  console.log();
-}
-add();
-// hoisting function decalaration
+//const add = function add(){
+//  console.log();
+//}
