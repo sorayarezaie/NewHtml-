@@ -2,8 +2,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    background-image: linear-gradient(gray 50%, white);
     height: 100vh;
+    color: white;
 }
 ul{
     list-style-type: none;
